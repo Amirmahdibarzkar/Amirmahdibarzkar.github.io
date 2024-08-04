@@ -1,0 +1,40 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+  background: url(file:///C:/Users/Royal%20Gostar/Desktop/StartUp%20starter%20file/header.jpg) no-repeat center center fixed;
+}
+p {
+  text-align: center;
+  color: aliceblue;
+  padding-top: 16%;
+  font-size: 3rem;
+}
+.btn-primary {
+  border-color: rgb(255, 115, 0);
+  background-color: rgb(255, 115, 0);
+  font-weight: 700;
+  border-radius: 300px;
+  text-transform: uppercase;
+  text-align: center;
+}
+.btn-primary:hover {
+  border-color: orangered;
+  background-color: orangered;
+}
+hr {
+  border-color:orangered;
+  border-width: 3px;
+  max-width: 60px;
+}
+.container {
+  width: 100%;
+  height: 100%;
+}
+.buffer {
+  height: 12rem;
+}
+.sing {
+  padding-bottom: 12rem;
+}
